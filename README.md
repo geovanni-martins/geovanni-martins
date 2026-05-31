@@ -1,5 +1,3 @@
-# Geovanni.java
-
 ```java
 public class Geovanni {
 
