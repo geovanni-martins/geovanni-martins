@@ -10,21 +10,24 @@ public class Geovanni {
       + "web, lógica de programação e construção de projetos.";
 
     private final String[] studyingNow = {
-        "JavaScript",
+        "PHP",
+        "Laravel",
         "Python",
+        "Django",
         "Linux",
-        "Docker",
-        "TailwindCSS"
+        "Docker"
     };
 
     private final String[] knowledge = {
         "HTML",
         "CSS",
+        "Javascript",
         "Java",
         "C",
         "Git",
         "GitHub",
-        "MySQL"
+        "MySQL",
+        "Bootstrap"
     };
 
     public String email() {
