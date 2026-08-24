@@ -42,5 +42,22 @@ public class Geovanni {
 
 ## 🌎 Contato
 
-- 📧 Email: geovanni.mrts@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/geovannimartins/
+<table>
+<tr>
+<td width="70%">
+
+📧 **Email:** geovanni.mrts@gmail.com
+
+🔗 **LinkedIn:** linkedin.com/in/geovannimartins/
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://github.com/user-attachments/assets/dc5e55e4-2f1a-4f12-a0e4-def45c9436c5"
+     width="130"
+     alt="Geovanni">
+
+</td>
+</tr>
+</table>
