@@ -48,7 +48,7 @@ public class Geovanni {
 
 📧 **Email:** geovanni.mrts@gmail.com
 
-🔗 **LinkedIn:** linkedin.com/in/geovannimartins/
+🔗 **LinkedIn:** www.linkedin.com/in/geovannimartins/
 
 </td>
 
